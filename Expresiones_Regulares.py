@@ -71,3 +71,5 @@ tabla_3["No. de casos"] = tabla_3['No. de casos'].astype('int64')
 
 print("\n", tabla_3.dtypes)
 print("\n*********** Fin de la tabla 3 ***********\n")
+
+#Alessandro Tzunun Tax - 1524723
